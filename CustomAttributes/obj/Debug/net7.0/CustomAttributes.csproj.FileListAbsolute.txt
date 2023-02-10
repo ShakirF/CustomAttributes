@@ -1,0 +1,15 @@
+D:\c# project\CustomAttributes\CustomAttributes\bin\Debug\net7.0\CustomAttributes.exe
+D:\c# project\CustomAttributes\CustomAttributes\bin\Debug\net7.0\CustomAttributes.deps.json
+D:\c# project\CustomAttributes\CustomAttributes\bin\Debug\net7.0\CustomAttributes.runtimeconfig.json
+D:\c# project\CustomAttributes\CustomAttributes\bin\Debug\net7.0\CustomAttributes.dll
+D:\c# project\CustomAttributes\CustomAttributes\bin\Debug\net7.0\CustomAttributes.pdb
+D:\c# project\CustomAttributes\CustomAttributes\obj\Debug\net7.0\CustomAttributes.csproj.AssemblyReference.cache
+D:\c# project\CustomAttributes\CustomAttributes\obj\Debug\net7.0\CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# project\CustomAttributes\CustomAttributes\obj\Debug\net7.0\CustomAttributes.AssemblyInfoInputs.cache
+D:\c# project\CustomAttributes\CustomAttributes\obj\Debug\net7.0\CustomAttributes.AssemblyInfo.cs
+D:\c# project\CustomAttributes\CustomAttributes\obj\Debug\net7.0\CustomAttributes.csproj.CoreCompileInputs.cache
+D:\c# project\CustomAttributes\CustomAttributes\obj\Debug\net7.0\CustomAttributes.dll
+D:\c# project\CustomAttributes\CustomAttributes\obj\Debug\net7.0\refint\CustomAttributes.dll
+D:\c# project\CustomAttributes\CustomAttributes\obj\Debug\net7.0\CustomAttributes.pdb
+D:\c# project\CustomAttributes\CustomAttributes\obj\Debug\net7.0\CustomAttributes.genruntimeconfig.cache
+D:\c# project\CustomAttributes\CustomAttributes\obj\Debug\net7.0\ref\CustomAttributes.dll
